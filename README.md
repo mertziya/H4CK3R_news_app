@@ -21,7 +21,9 @@ HN Algolia Fetcher is a simple yet well-functioning iOS mobile application that 
 
 Check out a demo of the app in action:
 
-[Demo Video](https://github.com/mertziya/H4CK3R_news_app/assets/108177583/ddbba0aa-c444-4330-8ecd-2ccfea93d620)
+<div align="center">
+  <a href="https://github.com/mertziya/H4CK3R_news_app/assets/108177583/ddbba0aa-c444-4330-8ecd-2ccfea93d620">Demo Video</a>
+</div>
 
 ## Requirements:
 
