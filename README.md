@@ -2,7 +2,7 @@
 
 HN Algolia Fetcher is a simple yet well-functioning iOS mobile application that fetches data from the [HN Algolia API](http://hn.algolia.com) and visualizes it within the app. This project leverages SwiftUI to create a seamless and interactive user interface, providing a smooth experience for browsing Hacker News data.
 
-## Table of Contents
+## Table of Contents:
 
 - [Features](#features)
 - [Demo](#demo)
@@ -10,30 +10,30 @@ HN Algolia Fetcher is a simple yet well-functioning iOS mobile application that 
 - [Installation](#installation)
 - [Usage](#usage)
 
-## Features
+## Features:
 
 - Fetches data from the HN Algolia API.
 - Displays a list of Hacker News articles.
 - Provides detailed views of selected articles.
 - Simple and intuitive user interface built with SwiftUI.
 
-## Demo
+## Demo:
 
 Check out a demo of the app in action:
 
-[Demo Video](link_to_your_demo_video)
+[Demo Video](https://github.com/mertziya/H4CK3R_news_app/assets/108177583/6110c8a5-e7a5-45b3-9c90-cf86f984eae3)
 
-## Requirements
+## Requirements:
 
 - iOS 13.0+
 - Xcode 12.0+
 - Swift 5.0+
 
-## Installation
+## Installation:
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/yourusername/hn-algolia-fetcher.git
 
 2. Open the project in Xcode:
@@ -44,12 +44,12 @@ Check out a demo of the app in action:
 3. Install dependencies using Swift Package Manager if necessary.
 
 4. Build and run the project on your simulator or device.
+ Usage:
 
 ## Usage:
 
 1. Launch the app on your iOS device or simulator.
 2. Browse the list of Hacker News articles.
 3. Tap on an article to view its details.
-
 
 
